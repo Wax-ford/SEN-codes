@@ -22,7 +22,7 @@ To develop a system that can:
     • Display results clearly
 Tools & Resources
     • Programming language: Python
-    • Editor: VS Code / PyCharm
+    • Editor: VS Code
     • Version control: GitHub
 2.2 Requirement Analysis Phase
 Functional Requirements
