@@ -1,7 +1,7 @@
 Student Result Management System (SRMS)
 
 Name: Adediran Wealth  
-Matric Number:** 24/15484  
+Matric Number: 24/15484  
 Department: Computer Science  
 Course Code:SEN 201  
 
